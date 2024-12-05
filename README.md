@@ -1,10 +1,10 @@
-Sandwich Plugin
+World Sandwich Plugin
 ===============
 
 Introduction
 ------------
 
-The **Sandwich** plugin allows Minecraft server administrators to link multiple worlds vertically. Players can seamlessly transition between worlds by moving beyond the vertical boundaries of a world. This creates a layered world experience, stacking different dimensions or environments on top of or below each other.
+The **World Sandwich** plugin allows Minecraft server administrators to link multiple worlds vertically. Players can seamlessly transition between worlds by moving beyond the vertical boundaries of a world. This creates a layered world experience, stacking different dimensions or environments on top of or below each other.
 
 Originally based off the MIT Licensed MC 1.13 plugin:
 [Downloads](https://github.com/jonthesquirrel/Sandwich/releases)
@@ -22,7 +22,7 @@ Features
 Installation
 ------------
 
-1.  **Download the Plugin**: Obtain the latest release of the Sandwich plugin from the [Releases](https://github.com/theblobinc/Sandwich/releases/) page.
+1.  **Download the Plugin**: Obtain the latest release of the World Sandwich plugin from the [Releases](https://github.com/theblobinc/Sandwich/releases/) page.
 
 2.  **Place in Plugins Folder**: Copy the `Sandwich.jar` file into your server's `plugins` directory.
 
@@ -40,7 +40,7 @@ Configuration
 
 ### `config.yml`
 
-The `config.yml` file is where you configure the behavior of the Sandwich plugin. Below is an explanation of the configuration options and how to set them up.
+The `config.yml` file is where you configure the behavior of the World Sandwich plugin. Below is an explanation of the configuration options and how to set them up.
 
 ```
 # Default padding value used if a world doesn't specify its own padding
