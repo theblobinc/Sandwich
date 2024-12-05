@@ -152,3 +152,13 @@ If you are updating from a previous version of the Sandwich plugin, please note 
 
 -   **Configuration Changes**: The `config.yml` structure has changed significantly. You will need to update your configuration file to match the new format. Be sure to back up your existing `config.yml` before updating.
 -   **Compatibility**: The updated plugin is compatible with PaperMC 1.21.3 and above.
+
+License
+-------
+
+This project is licensed under the MIT License - see the <LICENSE> file for details.
+
+Support
+-------
+
+If you encounter any issues or have questions about using the Sandwich plugin, please open an issue on the [GitHub Issues]([#](https://github.com/theblobinc/Sandwich/issues)) page.
