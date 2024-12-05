@@ -42,7 +42,8 @@ Configuration
 
 The `config.yml` file is where you configure the behavior of the Sandwich plugin. Below is an explanation of the configuration options and how to set them up.
 
-`# Default padding value used if a world doesn't specify its own padding
+```
+# Default padding value used if a world doesn't specify its own padding
 defaultPadding: 10
 
 # Worlds configuration
@@ -62,7 +63,8 @@ worlds:
     bottomLink: skylands
     worldTop: 255
     worldBottom: 0
-    worldPadding: 10`
+    worldPadding: 10
+```
 
 #### Configuration Options
 
