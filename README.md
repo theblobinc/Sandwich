@@ -22,7 +22,7 @@ Features
 Installation
 ------------
 
-1.  **Download the Plugin**: Obtain the latest release of the Sandwich plugin from the [Releases](#https://github.com/theblobinc/Sandwich/releases/) page.
+1.  **Download the Plugin**: Obtain the latest release of the Sandwich plugin from the [Releases](https://github.com/theblobinc/Sandwich/releases/) page.
 
 2.  **Place in Plugins Folder**: Copy the `Sandwich.jar` file into your server's `plugins` directory.
 
