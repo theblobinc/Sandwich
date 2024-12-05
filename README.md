@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 Support
 -------
 
-If you encounter any issues or have questions about using the Sandwich plugin, please open an issue on the [GitHub Issues](https://github.com/theblobinc/Sandwich/blob/main/LICENSE) page.
+If you encounter any issues or have questions about using the Sandwich plugin, please open an issue on the [GitHub Issues](https://github.com/theblobinc/Sandwich/issues) page.
