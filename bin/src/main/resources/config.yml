@@ -1,0 +1,12 @@
+worldPadding: 10
+worldTop: 319   # Adjusted for Minecraft 1.18+ world height
+worldBottom: -64  # Adjusted for Minecraft 1.18+ world bottom
+# example: name these according to your worlds - you can have any combination of top and bottom links
+# worlds:
+#   world:
+#     top: skylands
+#   skylands:
+#     top: world_the_end
+#     bottom: world
+#   world_the_end:
+#     bottom: skylands

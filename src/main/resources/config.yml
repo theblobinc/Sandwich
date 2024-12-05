@@ -1,0 +1,21 @@
+# Define the default padding if not specified per world
+defaultPadding: 10
+
+# Worlds configuration
+worlds:
+  world:
+    topLink: skylands
+    worldTop: 319
+    worldBottom: -64
+    worldPadding: 10
+  skylands:
+    topLink: world_the_end
+    bottomLink: world
+    worldTop: 255
+    worldBottom: 0
+    worldPadding: 5
+  world_the_end:
+    bottomLink: skylands
+    worldTop: 255
+    worldBottom: 0
+    worldPadding: 10

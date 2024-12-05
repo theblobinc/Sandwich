@@ -1,0 +1,5 @@
+name: Sandwich
+main: io.github.theblobinc.sandwich.Sandwich
+author: theblobinc
+version: 1.0.0
+description: Connect worlds vertically
