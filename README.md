@@ -4,7 +4,7 @@ World Sandwich Plugin
 Introduction
 ------------
 
-The **World Sandwich** plugin allows Minecraft server administrators to link multiple worlds vertically. Players can seamlessly transition between worlds by moving beyond the vertical boundaries of a world. This creates a layered world experience, stacking different dimensions or environments on top of or below each other.
+The **World Sandwich** plugin allows Minecraft server administrators to link multiple worlds vertically. Players can transition between worlds by moving beyond the vertical boundaries above or below a world. This creates a layered world experience, stacking different dimensions or environments on top of or below each other.
 
 Originally based off the MIT Licensed MC 1.13 plugin:
 [Downloads](https://github.com/jonthesquirrel/Sandwich/releases)
